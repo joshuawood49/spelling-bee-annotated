@@ -1,2 +1,14 @@
-# spelling-bee-annotated
-A Streamlit app for generating annotated spelling bee words (Level 1–5) with pronunciation, definition, and sentence.
+# Spelling Bee Annotated Word Generator
+
+A classroom-ready Streamlit app to generate annotated spelling bee words by level (1–5).  
+Each word includes:
+
+- Word
+- Pronunciation
+- Definition
+- Example sentence
+
+Includes:
+✅ No repeat logic  
+🔁 Reset button per level  
+🎯 Designed for teachers and students
